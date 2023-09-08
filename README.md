@@ -3,7 +3,7 @@ This is a backend Python web server that utilizes Javascript, CSS, and HTML for 
 
 # Cherrypy:
 <a href="https://docs.cherrypy.dev/en/latest/" target="_blank">
-    <img src="images/cherrpy.png" alt="Cherrypy" width="200" height="150">
+    <img src="images/cherrpy.png" alt="Cherrypy" width="400" height="150">
 </a>
 
 
