@@ -7,6 +7,7 @@ This is a backend Python web server that utilizes Javascript, CSS, and HTML for 
 </a>
 
 
+
 ## Hosting the server locally
 ```shell
 python serv.py
