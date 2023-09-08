@@ -12,5 +12,5 @@ localhost:6060
 
 #### Check out Cherrypy:
 <a href="https://docs.cherrypy.dev/en/latest/" target="_blank">
-    <img src="images/cherrpy.png" alt="Cherrypy" width="300" height="100">
+    <img src="images/cherrpy.png" alt="Cherrypy" width="225" height="75">
 </a>
